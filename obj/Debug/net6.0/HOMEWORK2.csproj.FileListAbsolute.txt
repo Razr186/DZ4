@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Учеба\HOMEWORK2\bin\Debug\net6.0\HOMEWORK2.exe
+C:\Users\User\Desktop\Учеба\HOMEWORK2\bin\Debug\net6.0\HOMEWORK2.deps.json
+C:\Users\User\Desktop\Учеба\HOMEWORK2\bin\Debug\net6.0\HOMEWORK2.runtimeconfig.json
+C:\Users\User\Desktop\Учеба\HOMEWORK2\bin\Debug\net6.0\HOMEWORK2.dll
+C:\Users\User\Desktop\Учеба\HOMEWORK2\bin\Debug\net6.0\HOMEWORK2.pdb
+C:\Users\User\Desktop\Учеба\HOMEWORK2\obj\Debug\net6.0\HOMEWORK2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Учеба\HOMEWORK2\obj\Debug\net6.0\HOMEWORK2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Учеба\HOMEWORK2\obj\Debug\net6.0\HOMEWORK2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Учеба\HOMEWORK2\obj\Debug\net6.0\HOMEWORK2.AssemblyInfo.cs
+C:\Users\User\Desktop\Учеба\HOMEWORK2\obj\Debug\net6.0\HOMEWORK2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Учеба\HOMEWORK2\obj\Debug\net6.0\HOMEWORK2.dll
+C:\Users\User\Desktop\Учеба\HOMEWORK2\obj\Debug\net6.0\refint\HOMEWORK2.dll
+C:\Users\User\Desktop\Учеба\HOMEWORK2\obj\Debug\net6.0\HOMEWORK2.pdb
+C:\Users\User\Desktop\Учеба\HOMEWORK2\obj\Debug\net6.0\HOMEWORK2.genruntimeconfig.cache
+C:\Users\User\Desktop\Учеба\HOMEWORK2\obj\Debug\net6.0\ref\HOMEWORK2.dll
